@@ -2,7 +2,7 @@
 *   mpg123 - MPEG 1.0/2.0/2.5 audio player            *
 *   README for version 1.x.y, dated at 14.06.2009     *
 *                                                     *
-* ...still the fastest MPEG audio player for UNIX ;)  *
+*   Forked from mileswu/mpg123 to attempt bug fixing  *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 (This file has very long lines - die-hard terminal nostalgists can be satisfied by `fmt -s -w 75 < README | less`. I think it's better to let the reader's preference rule than to preformat the stuff to some arbitrary width.)
 
